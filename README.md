@@ -22,4 +22,4 @@ Claude.ai（Artifactが使えるプラン）
 
 ## 関連記事
 
-- [MAGIシステムをClaudeのArtifactで作ってみた（Qiita）](https://qiita.com/inuta-one)
+- [MAGIシステムをClaudeのArtifactで作ってみた（Qiita）](https://qiita.com/inuta-one/items/258f72283672ff79f894)
